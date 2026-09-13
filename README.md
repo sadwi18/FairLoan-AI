@@ -10,15 +10,16 @@ of Credit Card Clients** dataset. Therefore, the model predicts the risk of **ne
 default**, not general personal-loan default. This project is intended for educational and demonstration
 purposes and should not be used as a real-world lending decision system.
 ---
-## ■ Live Application
-### ■ Streamlit Dashboard
-**Live App:**
+## 🌐 Live Application
+
+### Streamlit Dashboard
+**Live App:**  
 https://fairloan-ai-2ew6outepx76gqozcjvjwb.streamlit.app
-### ■ FastAPI Backend
-**API:**
+### FastAPI Backend
+**API:**  
 https://fairloan-ai-wqon.onrender.com
-### ■ Interactive API Documentation
-**Swagger UI:**
+### Interactive API Documentation
+**Swagger UI:**  
 https://fairloan-ai-wqon.onrender.com/docs
 ---
 ## ■ Problem Statement
